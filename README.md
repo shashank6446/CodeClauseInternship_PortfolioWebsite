@@ -1,2 +1,1 @@
 # CodeClauseInternship_PortfolioWebsite
-Personal Portfolio Website
