@@ -1,2 +1,2 @@
-# PRODIGY_WD_03
+# CodeClauseInternship_PortfolioWebsite
 Personal Portfolio Website
